@@ -1,0 +1,6 @@
+Algoritm to add two numbers 
+1. Start
+2. Accept the two numbers
+3. Perform addition
+4. Display the result 
+5. Stop
