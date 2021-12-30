@@ -2,7 +2,7 @@
 
  MODULE-1
 
-[01.Power.c](power.c)
+[01-Power.c](power.c)
 
 [02.Simple and compound.c](simpleandcompound.c)
 
