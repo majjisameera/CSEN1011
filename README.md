@@ -2,4 +2,4 @@
 
  MODULE-1
 
-/{Power.c}(power.c)
+[Power.c](power.c)
