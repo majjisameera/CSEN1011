@@ -14,6 +14,9 @@
 
 [06.Total, Avg, Percent.c](total,avg,percent.c)
 
+
+
+
 MODULE-2
 
 [01.Alphabets pattern.c](alphabets.c)
