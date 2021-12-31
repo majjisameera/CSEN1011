@@ -30,3 +30,5 @@ MODULE-2
 [05.Star pattern.c](pattern.c)
 
 [06.Reverse number.c](reversenum.c)
+
+[fibnocci.c](FibonacciSum.c)
