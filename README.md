@@ -31,4 +31,5 @@ MODULE-2
 
 [06.Reverse number.c](https://github.com/majjisameera/CSEN1011/blob/96f02e2876aecaa9e0e275b308d17f90f023acc4/Module-2/reversenum.c)<br />
 
-[fibnocci.c](FibonacciSum.c)
+
+
