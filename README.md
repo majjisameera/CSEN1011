@@ -2,7 +2,7 @@
 
  MODULE-1
 
-[01-Power.c](power.c)
+[power.c](https://github.com/majjisameera/CSEN1011/blob/1d2b2d634e9c8f58ab1f8b1525c3cc1237628e0f/Module-1/power.c)<br />
 
 [02.Simple and compound.c](simpleandcompound.c)
 
