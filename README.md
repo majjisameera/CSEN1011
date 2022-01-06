@@ -2,9 +2,9 @@
 
  MODULE-1
 
-[01.power.c](https://github.com/majjisameera/CSEN1011/blob/1d2b2d634e9c8f58ab1f8b1525c3cc1237628e0f/Module-1/power.c)<br> 
+[01.power.c](https://github.com/majjisameera/CSEN1011/blob/1d2b2d634e9c8f58ab1f8b1525c3cc1237628e0f/Module-1/power.c)<br \> 
 
-[02.Simple and compound.c](https://github.com/majjisameera/CSEN1011/blob/0596d4ae93bafddec7ec12632c34fcb9fb32ef53/Module-1/simpleandcompound.c)<br>
+[02.Simple and compound.c](https://github.com/majjisameera/CSEN1011/blob/0596d4ae93bafddec7ec12632c34fcb9fb32ef53/Module-1/simpleandcompound.c)<br \>
 
 [03.Simple interest.c](simpleinterest.c)
 
