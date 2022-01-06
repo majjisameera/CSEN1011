@@ -19,16 +19,16 @@
 
 MODULE-2
 
-[01.Alphabets pattern.c](alphabets.c)
+[01.Alphabets pattern.c](https://github.com/majjisameera/CSEN1011/blob/96f02e2876aecaa9e0e275b308d17f90f023acc4/Module-2/alphabets.c)<br />
 
-[02.Flyod's triangle.c](floyd.c)
+[02.Flyod's triangle.c](https://github.com/majjisameera/CSEN1011/blob/96f02e2876aecaa9e0e275b308d17f90f023acc4/Module-2/flyod.c)<br />
 
-[03.GCD.c](gcd.c)
+[03.GCD.c](https://github.com/majjisameera/CSEN1011/blob/96f02e2876aecaa9e0e275b308d17f90f023acc4/Module-2/gcd.c)<br />
 
-[04.Pascal's triangle.c](pascaltraiangle.c)
+[04.Pascal's triangle.c](https://github.com/majjisameera/CSEN1011/blob/96f02e2876aecaa9e0e275b308d17f90f023acc4/Module-2/pascaltriangle.c)<br />
 
-[05.Star pattern.c](pattern.c)
+[05.Star pattern.c](https://github.com/majjisameera/CSEN1011/blob/96f02e2876aecaa9e0e275b308d17f90f023acc4/Module-2/pattern.c)<br />
 
-[06.Reverse number.c](reversenum.c)
+[06.Reverse number.c](https://github.com/majjisameera/CSEN1011/blob/96f02e2876aecaa9e0e275b308d17f90f023acc4/Module-2/reversenum.c)<br />
 
 [fibnocci.c](FibonacciSum.c)
